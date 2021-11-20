@@ -1,6 +1,8 @@
 # SARA Actions help
 
-In case of any questions please contact us at:
+Quick guide is visible for login user inside iOS app.
+
+In case of any further questions please contact us at:
 
 maciejkozub@student.agh.edu.pl
 
