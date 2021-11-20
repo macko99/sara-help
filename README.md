@@ -1,4 +1,4 @@
-# sara-help
+# SARA Actions help
 
 In case of any questions please contact us at:
 
