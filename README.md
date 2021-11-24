@@ -1,6 +1,6 @@
 # SARA Actions help
 
-Quick guide is visible for logged in user inside iOS app.
+Quick guide is visible for users logged in into iOS app.
 
 In case of any further questions please contact us at:
 
